@@ -1,4 +1,4 @@
-# Customer Review Sentiment Analysis
+# Consumer Review Sentiment Analysis
 
 ## Problem Statement
 
